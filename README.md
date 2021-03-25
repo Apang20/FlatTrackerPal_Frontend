@@ -1,6 +1,6 @@
 # Flat-Tracker-Pal
 
-### Project By:
+### Project By
 - Avelon Pang
 - Chi Nguyen
 
