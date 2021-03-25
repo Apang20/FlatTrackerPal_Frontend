@@ -12,5 +12,9 @@ A ReactJs application that tracks and organizes the user’s record of their dai
 
 - [Short Demo Video](https://www.youtube.com/watch?v=c-k0zrYA-Oo)
 
+## To Start This Project
+- App: rails db:migrate, rails db:seed, rails s
+- Frontend: npm install, npm start
+
 ## Resources
-- Syled with [Material-UI](https://material-ui.com/) and [Chakra-UI](https://chakra-ui.com/)
+- Styled with [Material-UI](https://material-ui.com/) and [Chakra-UI](https://chakra-ui.com/)
